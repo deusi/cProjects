@@ -1,0 +1,3 @@
+../Testcases/TestCase2/F1/xam.txt
+../Testcases/TestCase2/F1/xaa.txt
+../Testcases/TestCase2/F1/xbi.txt
